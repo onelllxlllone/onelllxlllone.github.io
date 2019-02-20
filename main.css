@@ -123,3 +123,23 @@ h1
     font-family: 'Permanent Marker', cursive;
 
 }
+.link-text-decoration:link
+{
+    text-decoration: none;
+    color: white;
+}
+.link-text-decoration:visited
+{
+    color: white;
+}
+.link-text-decoration:hover
+{
+
+    
+    color: black;
+}
+.link-text-decoration:active
+{
+    text-decoration: none;
+    color: black;
+}
