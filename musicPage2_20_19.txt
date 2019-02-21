@@ -1,0 +1,6 @@
+-music table 
+	it has text on the left
+	pic on music on right
+	audio bar below pic
+	this will be a one colum menu
+	has multply rows for music
